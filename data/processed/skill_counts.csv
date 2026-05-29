@@ -1,26 +1,17 @@
 skill_category,skill,count
-Programming,R,1201
-Tools,Git,127
-Programming,SQL,76
-Machine Learning,Machine Learning,68
-Data Analysis,Excel,57
-Programming,Python,52
-Data Engineering,ETL,38
-Visualization,Power BI,27
-Cloud,Azure,15
-Cloud,AWS,14
-Data Engineering,Databricks,10
-Data Engineering,Snowflake,10
-Data Engineering,Spark,10
-Data Analysis,EDA,8
-Cloud,GCP,5
-Programming,JavaScript,4
-Visualization,Tableau,4
-Programming,Java,4
-Data Analysis,Statistics,4
-Tools,Docker,3
-Data Engineering,BigQuery,2
+Programming,R,1102
+Programming,Python,19
+Visualization,Power BI,17
+Programming,SQL,8
+Tools,Git,7
+Machine Learning,Machine Learning,5
+Cloud,Azure,3
+Data Analysis,Excel,2
+Data Engineering,Snowflake,2
 Visualization,Looker,2
-Machine Learning,TensorFlow,1
-Machine Learning,Scikit-learn,1
-Machine Learning,PyTorch,1
+Visualization,Tableau,2
+Cloud,AWS,1
+Cloud,GCP,1
+Data Engineering,Databricks,1
+Data Engineering,ETL,1
+Data Engineering,Spark,1
