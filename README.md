@@ -218,7 +218,7 @@ The pipeline will:
 View the interactive dashboard:
 
 **Tableau Public Dashboard:**
-PASTE_TABLEAU_PUBLIC_LINK_HERE
+(https://public.tableau.com/views/live-job-market-dashboard/JobMarketOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
